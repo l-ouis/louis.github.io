@@ -14,7 +14,7 @@ I love:
 
 <br />
 
-### Experiences & Projects:
+### Experiences & Projects
 
 **Software Engineering Intern at SpaceX**
 
@@ -44,4 +44,14 @@ I'm also on the staff team (map testing & managing the skin database).
 Developed first open-source reactive, scalable [election portal](https://github.com/BPR-Data-Team){:target="_blank"}. Served as on-call developer at Brown Political Review's live 2024 election event and got to fix a few critical bugs!
 
 
+
+### Other Stuff
+
+**Typing**
+
+298th place on the global monkeytype.com 60s leaderboards (190wpm, top 0.1%). Also a huge fan of blank keycaps.
+
+**Games**
+
+Working on Arcitect, a bullet-hell builder with an advanced enemy behavior editor. 
 

@@ -51,7 +51,3 @@ Developed first open-source reactive, scalable [election portal](https://github.
 
 298th place on the global monkeytype.com 60s leaderboards (190wpm, top 0.1%). Also a huge fan of blank keycaps.
 
-**Games**
-
-Working on Arcitect, a bullet-hell builder with an advanced enemy behavior editor. 
-

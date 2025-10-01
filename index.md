@@ -54,6 +54,3 @@ Developed first open-source reactive, scalable [election portal](https://github.
 **Typing**
 
 Top 300 global placement on monkeytype.com 60s leaderboards (note: may be out of date, I only grind every now and then)
-
-**Games**
-

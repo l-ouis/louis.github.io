@@ -1,9 +1,9 @@
 # If you want to link only specific pages in your header, add the path to the
 # pages in order as they should show up.
 main:
-  - title: "about"
+  - title: "about / links"
     url: /about/
-  - title: "blog"
-    url: /archives/
-  - title: "github"
-    url: https://github.com/l-ouis
+  # - title: "blog"
+  #   url: /archives/
+  # - title: "github"
+  #   url: https://github.com/l-ouis

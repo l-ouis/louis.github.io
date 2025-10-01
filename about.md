@@ -4,4 +4,4 @@ title: "about"
 permalink: /about/
 ---
 
-hi (remove this page)
+[My Github](https://github.com/l-ouis){:target="_blank"}

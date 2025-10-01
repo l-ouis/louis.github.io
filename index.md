@@ -8,9 +8,9 @@ Hi! I'm currently a student at Brown University studying Computer Science and Ap
 
 I love:
 
-- building software & crafting algorithms,
-- all things music, and
-- any games and puzzles
+- building software & writing algorithms,
+- listening to & producing music, and
+- all things games and puzzles
 
 <br />
 
@@ -19,6 +19,10 @@ I love:
 **Software Engineering Intern at SpaceX**
 
 Developing software to parallelize factory-wide lineside production and writing algorithms that take messy [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification){:target="_blank"} data and produce reliable, location-tagged inventory counts.
+
+**E-GLAMOUR Lab at Brown University**
+
+Researching theoretical and computational problems in game theory, optimization, and machine learning. Reinforcement learning combines CS and mathematics in a really cool way and really feels like magic.
 
 **Human-Computer Interaction Lab at Brown University**
 
@@ -32,11 +36,11 @@ Also developing and maintaining [WebGazer](https://github.com/brownhci/webgazer)
 
 - Placed first in an official [tournament](https://ddnet.org/tournaments/7event4/){:target="_blank"}
 
-- Created [maps](https://ddnet.org/mappers/louis/){:target="_blank"} (the levels players actually play), including the [most-finished map in the entire network](https://ddnet.org/maps/Linear){:target="_blank"}
+- Created [maps](https://ddnet.org/mappers/louis/){:target="_blank"} (the levels players actually play), including the [most-finished map on the entire network](https://ddnet.org/maps/Linear){:target="_blank"}
 
-- Contributed code to the [official repository](https://github.com/ddnet/ddnet){:target="_blank"}
+- Contributed code to the [official repository](https://github.com/ddnet/ddnet){:target="_blank"}, and work on new features and bug fixes in my free time
 
-I'm also on the staff team (map testing & managing the skin database).
+I'm currently one of the six administrators that lead DDNet.
 
 
 **24cast.org**
@@ -49,9 +53,7 @@ Developed first open-source reactive, scalable [election portal](https://github.
 
 **Typing**
 
-298th place on the global monkeytype.com 60s leaderboards (190wpm, top 0.1%). Also a huge fan of blank keycaps.
+Top 300 global placement on monkeytype.com 60s leaderboards (note: may be out of date, I only grind every now and then)
 
 **Games**
-
-Working on Arcitect, a bullet-hell builder with an advanced enemy behavior editor. 
 
